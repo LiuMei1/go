@@ -1,4 +1,5 @@
-package com.niuniu.gq;
+
+import com.niuniu.gq.AppFrame;
 
 public class App {
 
